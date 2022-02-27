@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: geraldoaax@gmail.com
 - ⚡ Fun fact: Ride a Bike!!
 
+[![iuricode](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default)](https://github.com/geraldoaax/)
+
+
 [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/)
 
 
