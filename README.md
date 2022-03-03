@@ -11,8 +11,9 @@
 
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/) -->
 
-
+<div align="center" width="100%">
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoaax&hide=html&layout=compact&theme=default)](https://github.com/geraldoaax/)
+</div>
 
 ## Contacts
 
