@@ -7,7 +7,6 @@
 - I’m collaborate on Easymine - Fleet Management System for Mine Software
 - I’m looking for help with Web3 Projects
 - Ask me about for Fleet Management System for Mine Solutions
-- How to reach me: geraldoaax@gmail.com
 - Fun fact: Ride a Bike!!
 
 <!-- [![iuricode](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default)](https://github.com/geraldoaax/) -->
@@ -20,10 +19,7 @@
 ## Contacts
 
 <p>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/geraldoaax/)](https://www.instagram.com/geraldoaax/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geraldoaax/)](https://www.linkedin.com/in/geraldoaax/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/geraldoaax)](https://twitter.com/geraldoaax) 
-
+geraldoaax@gmail.com
 </p>
 
 ## Skills
