@@ -1,6 +1,6 @@
-<p>
-## Profile
 
+## Profile
+<p>
 - I’m currently working on Instale Tecnologia Ltda. (BR)
 - I’m currently learning Rust.
 - I’m collaborate on Easymine - Fleet Management System for Mine Software
@@ -14,16 +14,17 @@
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/) -->
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoaax&hide=html&layout=compact&theme=default)](https://github.com/geraldoaax/)
-
+</p>
 ## Contacts
+<p>
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `geraldoaax@gmail.com`
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> | `https://twitter.com/geraldoaax`
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/geraldoaax/`
-
-
+</p>
+<p>
 ## Skills
 <div style={{align}}>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  
