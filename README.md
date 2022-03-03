@@ -1,5 +1,6 @@
 ## Profile
 
+<p>
 - 🔭 I’m currently working on Instale Tecnologia Ltda 
 - 🌱 I’m currently learning Rust
 - 👯 I’m collaborate on Easymine - Fleet Management System for Mine Software
@@ -13,17 +14,21 @@
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/) -->
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoaax&hide=html&layout=compact&theme=default)](https://github.com/geraldoaax/)
+</p>
 
 ## Contacts
 
+<p>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `geraldoaax@gmail.com`
 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> | `https://twitter.com/geraldoaax`
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/geraldoaax/`
-
+</p>
 
 ## Skills
+
+<p>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
@@ -37,4 +42,4 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />  
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />  
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />  
-
+</p>
