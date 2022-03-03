@@ -1,32 +1,24 @@
 ## Profile
 
-
-- 🔭 I’m currently working on Instale Tecnologia Ltda 
-- 🌱 I’m currently learning Rust
-- 👯 I’m collaborate on Easymine - Fleet Management System for Mine Software
-- 🤔 I’m looking for help with Web3 Projects
-- 💬 Ask me about for Fleet Management System for Mine Solutions
-- 📫 How to reach me: geraldoaax@gmail.com
-- ⚡ Fun fact: Ride a Bike!!
+- I’m currently working on Instale Tecnologia Ltda 
+- I’m currently learning Rust
+- I’m collaborate on Easymine - Fleet Management System for Mine Software
+- I’m looking for help with Web3 Projects
+- Ask me about for Fleet Management System for Mine Solutions
+- Fun fact: Ride a Bike!!
 
 <!-- [![iuricode](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default)](https://github.com/geraldoaax/) -->
 
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/) -->
 
-<p align="center" width="100%">
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoaax&hide=html&layout=compact&theme=default)](https://github.com/geraldoaax/)
 
-</p>
-
 ## Contacts
-
-<p align="center" width="100%">
 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `geraldoaax@gmail.com`
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> | `https://twitter.com/geraldoaax`
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | `https://www.linkedin.com/in/geraldoaax/`
-</p>
 
 ## Skills
 
