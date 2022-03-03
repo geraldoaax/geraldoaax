@@ -1,7 +1,7 @@
 
 ## Profile
 
-<p>
+
 - I’m currently working on Instale Tecnologia Ltda. (BR)
 - I’m currently learning Rust.
 - I’m collaborate on Easymine - Fleet Management System for Mine Software
@@ -14,7 +14,7 @@
 <!-- [![card](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default&show_icons=true)](https://github.com/geraldoaax/) -->
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoaax&hide=html&layout=compact&theme=default)](https://github.com/geraldoaax/)
-</p>
+
 
 ## Contacts
 
