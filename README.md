@@ -1,3 +1,4 @@
+<p>
 ## Profile
 
 - I’m currently working on Instale Tecnologia Ltda. (BR)
@@ -39,4 +40,5 @@
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />  
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />  
 </div>
+</p>
 
