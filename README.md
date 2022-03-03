@@ -1,12 +1,12 @@
 ## Profile
 
-- 🔭 I’m currently working on Instale Tecnologia Ltda 
-- 🌱 I’m currently learning Rust
-- 👯 I’m collaborate on Easymine - Fleet Management System for Mine Software
-- 🤔 I’m looking for help with Web3 Projects
-- 💬 Ask me about for Fleet Management System for Mine Solutions
-- 📫 How to reach me: geraldoaax@gmail.com
-- ⚡ Fun fact: Ride a Bike!!
+- I’m currently working on Instale Tecnologia Ltda. (BR)
+- I’m currently learning Rust.
+- I’m collaborate on Easymine - Fleet Management System for Mine Software
+- I’m looking for help with Web3 Projects
+- Ask me about for Fleet Management System for Mine Solutions
+- How to reach me: geraldoaax@gmail.com
+- Fun fact: Ride a Bike!!
 
 <!-- [![iuricode](https://github-readme-stats.vercel.app/api?username=geraldoaax&theme=default)](https://github.com/geraldoaax/) -->
 
