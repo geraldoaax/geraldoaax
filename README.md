@@ -1,3 +1,11 @@
+<p align="center" width="100%">
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/geraldoaax?template=classic&config.timezone=America%2FSao_Paulo)
+
+<p align="center" width="100%">
+
 ## Profile
 
 - I’m currently working on Instale Tecnologia Ltda
@@ -48,9 +56,3 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 
 </p>
-
-<p align="center" width="100%">
-
-![Metrics](https://metrics.lecoq.io/geraldoaax?template=classic&config.timezone=America%2FSao_Paulo)
-
-<p align="center" width="100%">
